@@ -1,0 +1,11 @@
+body{
+  background-color: red;
+}
+#GreenText{
+  color: Green;
+  font-style: italic;
+}
+.LineItems{
+  display: inline;
+  font-size: 30px;
+}
