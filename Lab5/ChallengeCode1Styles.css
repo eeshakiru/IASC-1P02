@@ -1,0 +1,27 @@
+#wrapper{
+  background-color: black;
+  color: white;
+  height: 650px;
+  margin: 0px -8px -8px -8px;
+}
+
+div h2.header{
+  background-color: red;
+  color: white;
+  height: 100px;
+  text-align: center;
+}
+
+div p.left{
+  background-color: green;
+  color: white;
+  height: 450px;
+  margin-top: -20px;
+}
+
+.footer{
+  background-color: blue;
+  color:white;
+  margin-top: -20px;
+  height: 110px;
+}

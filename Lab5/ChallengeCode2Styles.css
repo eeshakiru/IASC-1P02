@@ -1,0 +1,48 @@
+body{
+  background-color: green;
+  color: black;
+}
+
+#wrapper{
+  height: 750px;
+  width: 750px;
+  right: 375px;
+  display: inline-block;
+  position: absolute;
+  background-color: white;
+  margin:-20px;
+}
+
+#header{
+  background-color: red;
+  height: 100px;
+  margin-top: -7px;
+  text-align: center;
+}
+
+#FirstNav{
+  float:left;
+  background-color: pink;
+  height: 100px;
+  width: 250px;
+}
+
+#SecondNav{
+  float: right;
+  background-color: orange;
+  height: 100px;
+  width:500px;
+}
+
+#MainBody{
+  background-color: blue;
+  font-weight: bold;
+  height:550px;
+}
+
+#Footer{
+  background-color: yellow;
+  height: 75px;
+  width: 750px;
+  display: inline-block;
+}

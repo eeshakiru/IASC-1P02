@@ -1,0 +1,42 @@
+body{
+  background-color: white;
+  color: black;
+}
+
+#wrapper{
+  background-color: green;
+  margin: 0px 0px -20px 0px;
+  height: 750px;
+}
+
+#one{
+  float: left;
+  background-color: blue;
+  height: 250px;
+  width: 250px;
+  position: absolute;
+  left: 200px;
+  margin: 10px;
+
+}
+
+#two{
+  float: right;
+  background-color: red;
+  height: 250px;
+  width: 250px;
+  position: absolute;
+  right: 200px;
+  margin: 10px;
+
+}
+
+#three{
+  background-color: yellow;
+  height: 250px;
+  width: 250px;
+  position: absolute;
+  top: 260px;
+  left: 590px;
+
+}
