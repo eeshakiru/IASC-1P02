@@ -22,14 +22,14 @@
 #Text2{
   text-align: center;
   color: white;
-  font: arial;
+  font-family: arial;
   font-size: 25px;
 }
 
 #Text3{
   text-align: center;
   color: white;
-  font: arial;
+  font-family: arial;
   font-size: 15px;
   margin-left: 220px;
 }
@@ -53,7 +53,7 @@
 }
 
 .menuheader{
-  font: arial;
+  font-family: arial;
   text-align: center;
   color: white;
   font-size: 30px;
