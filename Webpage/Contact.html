@@ -6,7 +6,7 @@
 	<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
 	<title>Contact Us</title>
 	<link href="ContactStyles.css" rel="stylesheet" type="text/css" />
-    <script type="text/javascript" src="scripts.js"></script>
+    <script type="text/javascript" src="Contact.js"></script>
 </head>
 
 <body>
@@ -27,14 +27,23 @@
 
   <div id="form">
   <form name="Contact Us">
-    <input type="text" name="lastname" id="lastname" value="Full Name" />
+    <input type="text" name="firstname" id="firstname" value="First Name" />
+    <input type="text" name="lastname" id="lastname" value="Last Name" />
+    <div id="email">
     <input type="text" name="emailaddress" id="emailaddress" value="Email Address" />
-    <textarea id="comments" name="Comments" rows="5" cols="20">
+    </div>
+    <div id="commentsection">
+      <textarea id="comments" name="Comments" rows="8" cols="40">
       Enter your Comments Here.
     </textarea>
+    </div>
+    <button type="submit"> Submit </button>
     </form>
     </div>
-
+    <div id="footer">
+      <p id="company"> Chance Photography </p>
+          <p>123 Pretend St. Toronto ON, A2B 3C4 </p>
+      </div>
     </div>
 
 </body>
