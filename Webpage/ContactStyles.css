@@ -1,0 +1,58 @@
+body{
+  background-color: #e5e9f4;
+  font-family: arial;
+  color: grey;
+}
+
+#main{
+  max-width: 1420px;
+  max-height: 1420px;
+}
+
+#header{
+  height: 200px;
+  width: 1420px;
+  border: solid grey 2px;
+
+}
+
+#logo{
+  margin-top: 35px;
+  margin-left: 35px;
+}
+
+#links{
+  width: 500px;
+  height: 50px;
+  margin-left: 900px;
+  margin-top: -50px;
+}
+
+.pages{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: georgia;
+}
+
+a:link{
+  color: #5c749b;
+}
+
+a:visited{
+  color: #5c749b;
+}
+
+a:hover{
+  background-color: #b7c4e8;
+}
+
+#form{
+  color: grey;
+  font-size: 20px;
+}
+
+#comments{
+  
+  margin-left: 30px;
+  margin-top: 30px;
+}
